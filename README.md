@@ -41,6 +41,8 @@ public class Camara1 : MonoBehaviour
 }
 ```
 ![Camara](./CamaraGIF.gif)
+Captura sacada en el video:
+![Captura](./snapshot.png)
 
 
 ## Microfono
